@@ -1,1 +1,7 @@
-# Taylor’s Law for Human Linguistic Sequences
+# 相关链接
+- **相关issues**: 
+- **原文链接**: 
+- **博客链接**: 
+- **论文解读链接**: 
+  
+---
