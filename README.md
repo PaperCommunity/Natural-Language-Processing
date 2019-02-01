@@ -6,5 +6,5 @@
 - 主要研究神经网络在语言学上的探索与研究
 ### [Text Representation](https://github.com/PaperCommunity/Natural-Language-Processing/tree/master/Text%20Representation)
 - 文本的表示方法
-### [Other Tasks](https://github.com/PaperCommunity/Natural-Language-Processing/tree/master/Other%20Methods)
+### [Other Tasks](https://github.com/PaperCommunity/Natural-Language-Processing/tree/master/Other%20Tasks)
 - 其他方向的研究
